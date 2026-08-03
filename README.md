@@ -1,2 +1,8 @@
 # Music-Store-Data-Analysis-Project-using-SQL
 Building a modern data warehouse with SQL Server, including ETL process, data modeling and analytics.
+##  SQL_Project_Music_Store_Analysis
+SQL project to analyze online music store data
+
+This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+
+Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
